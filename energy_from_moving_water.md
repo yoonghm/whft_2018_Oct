@@ -9,3 +9,4 @@
    - *Head* is contributed by kinetic energy, potential energy and pressure energy in the water.  
      Illustrate these concepts using Bernoulli's equation. Give examples.
  
+ Cite your sources.
