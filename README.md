@@ -18,8 +18,8 @@ This repository is for students to post their group and individual works for the
 |10 | 17-12-18 | Term Break                                                                                                       | -|
 |11 | 24-12-18 | Term Break                                                                                                       | -|
 |12 | 31-12-18 | [How do electrical machines generate AC or DC electricity?](ac_dc_generators.md)                                 |10179780B |
-|13 | 07-01-19 | [How do electrical machine maintain voltage, active and reactive powers demands?](electrical_machine_output.md)  |  |   
-|14 | 14-01-19 | **Quiz 3**. [How does a fuel cell work?](fuel_cell_working.md)                                                               |  |
-|15 | 21-01-18 | [What are the requirements to maintain output power from a fuel cell?](fuel_cell_fuel.md)                        |  |
+|13 | 07-01-19 | [How do electrical machine maintain voltage, active and reactive powers demands?](electrical_machine_output.md)  | 10180181A, 10174130F |   
+|14 | 14-01-19 | **Quiz 3**. [How does a fuel cell work?](fuel_cell_working.md)                                                               | 10182391D |
+|15 | 21-01-18 | [What are the requirements to maintain output power from a fuel cell?](fuel_cell_fuel.md)                        | 10173103E  |
 |16 | 28-01-19 | [What are the electronic circuits to condition output froma fuel cell?](fuel_cell_circuits.md)                   |  |
-|17 | 04-02-19 | **Quiz 4**                                                                                                           | -|
+|17 | 04-02-19 | **Quiz 4**                                                                                                       | -|
