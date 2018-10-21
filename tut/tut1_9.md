@@ -7,4 +7,4 @@ b. Rated output is 2 MW at 13 m/s wind speed
 
 Determine its power output efficiency at 13 m/s.  State all assumption.
 
-## Solution (Write your solutio here).
+## Solution (Write your solution here).
