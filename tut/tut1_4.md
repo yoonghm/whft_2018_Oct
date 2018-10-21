@@ -9,4 +9,4 @@ b. Minimum rotor hub height
 
 State all your assumption.
 
-## Solution (Write your solutio here).
+## Solution (Write your solution here).
