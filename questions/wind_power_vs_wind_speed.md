@@ -1,8 +1,17 @@
 ## How do wind power generators produce energy at different wind speed conditions?  
    - How does a wind power generator harvest more energy from the wind if the wind speed is below its rated wind speed?
+      - The gear box will change into a smaller gear so that a lower wind speed can generate more energy.
    - How does a wind power generator maintains it rated output power when the wind speed is larger than its rated wind speed?
+      - By feathering the blade and increasing the pitch angle, the surface area of the blades from the direction of wind will decrease. Therefore, the tip speed remains the same as the tip speed during the rated wind speed.
    - How does a wind turbine shed extra power from the wind if the wind speed is very much larger than its rated wind speed?
+      - The wind turbine shed extra power by yawing the blades to face away from the strong winds.
    - Illustrate and explain the power curve of a wind power generator with active stall control?
+      - The power curve (refer below) show that the power output does not overshoot the rated power of the machine even when the wind is above the rated wind speed, as it will increase the angle of attack of the rotor to make the blade into a deeper stall thus wasting the excess wind.(Jiaxiang)
    - Illustrate and explain the power curve of a wind power generator with passive stall control?
-
-Cite your sources.
+      - The power curve (refer below) show that even after the rated wind speed, the power output still increases and overshots the rated power output of the turbine. This is due to passive stall control being inaccurate in maintaining tip speed. It also shows that as the wind speed increases more after the rated wind speed, the power output starts to drop earlier than the active stall control power curve. This is due to the blades creating more turbulence to counteract the higher wind speeds.(Weng Leong)
+- <img src="https://www.researchgate.net/profile/Lucian_MIHET-POPA/publication/289639250/figure/fig2/AS:318168826036225@1452868767143/Typical-power-curves-and-operation-areas-of-a-stall-dashed-line-and-pitch-controlled.png" width="450" height="450">
+- Sources:
+- https://www.energy.gov/eere/articles/how-do-wind-turbines-survive-severe-storms
+- https://www.youtube.com/watch?v=tNWVaKjLLyA
+- https://www.researchgate.net/figure/Typical-power-curves-and-operation-areas-of-a-stall-dashed-line-and-pitch-controlled_fig2_289639250
+- http://xn--drmstrre-64ad.dk/wp-content/wind/miller/windpower%20web/en/tour/wtrb/powerreg.htm
