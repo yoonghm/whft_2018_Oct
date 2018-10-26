@@ -14,7 +14,7 @@ State all your assumption.
 - Assume air density = 1.155kg/m³
 - Assume roughness length = 1.0m 
 - Assume rated wind speed = 12m/s
-- Assume wind speed at reference height = 4m/s
+- Assume wind speed at reference height = 6m/s
 - Assume reference height = 10m
 - Ans: 
 - Part 1:
@@ -31,8 +31,8 @@ State all your assumption.
      
 ![alt text](https://qph.fs.quoracdn.net/main-qimg-94f627e665baf8d9984b7b98e69a8831.webp)
 - 12m/s = 4m/s x (ln(h))/(ln(10))
-- ln(h) = 12/4 x ln(10)
-- ln(h) = 6.91
-- h = e^6.91
-- h = 1000m
-- h = 1km
+- ln(h) = 12/6 x ln(10)
+- ln(h) = 4.61
+- h = e^4.61
+- h = 100m
+
