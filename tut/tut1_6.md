@@ -22,16 +22,16 @@ R=55.8m
 
 The minimum rotor diameter must be 55.8m
 
-Assume Zo= .20
+Assume Zo= 1
 
 Vh = VRef * (ln(h/Zo))/(ln(href/Zo))
 
-12 = 10 * (ln(h/.2))/(ln(10/0.2))
+12 = 10 * (ln(h/1))/(ln(10/1))
 
-4.69 = ln(h/.2)
+4.69 = ln(h)
 
-108.9 = h/.2
+108.9 = h
 
-h = 21.8m
+h = 108.9m
 
-The minimum rotor hub height is 21.8m
+The minimum rotor hub height is 108.9m
