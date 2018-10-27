@@ -5,6 +5,7 @@
 
 Cite your sources.
 
+Answer:
 1. Micro-hydropower is typically rated from 5 KW to 100KW. Amount of power generated depends on the amount of water that is falling and how far the water falls. 
 2. The typical electricity output is AC.
 3. Transformers are used to maintain the constant voltage of the generator and to match the grid requirement.
